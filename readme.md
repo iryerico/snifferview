@@ -22,5 +22,6 @@ Dashboard web para visualizar paquetes de red en tiempo real. Captura tráfico d
 
 1. **Clonar o descargar el proyecto:**
 ```bash
-git clone https://github.com/tuusuario/packet-dashboard.git
+git clone https://github.com/iryerico/snifferview.git
+
 cd packet-dashboard
